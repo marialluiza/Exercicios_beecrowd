@@ -1,1 +1,1 @@
-Colocarei aqui as resoluções dos exercícios da Beecrowd que eu fizer.
+Aqui colocarei as resoluções dos exercícios da Beecrowd que eu fizer.
