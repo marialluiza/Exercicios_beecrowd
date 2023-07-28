@@ -21,7 +21,7 @@ public class Exer1001{
         B = sc.nextInt();
 
         X = A + B;
-        System.out.println("X= " + X);
+        System.out.println("X=" + X);
 
         sc.close();
     }
